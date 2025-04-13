@@ -1,10 +1,9 @@
-# README.md
 
 # Dark Matter Market Link
 
-This repository provides a verified and actively maintained link to the Dark Matter Market. Finding a reliable and up-to-date Dark Matter Market onion link can be challenging, so this repository aims to provide a trusted source.
+This repository provides a verified and actively maintained link to the Dark Matter Market. Finding a reliable and up-to-date Dark Matter Market onion link can be challenging, so this repository aims to provide a trusted source.  You can find more information about Dark Matter Market on darkmattermarketlink.org
 
-**Verified Onion Address:** `http://darkmax6jt57izfwzbnydtpb6zbtzqjtwbm7kfyrdicqtzv3fnipqoqd.onion`
+**Onion Address:** `http://darkmax6jt57izfwzbnydtpb6zbtzqjtwbm7kfyrdicqtzv3fnipqoqd.onion`
 
 ## Why is a Verified Dark Matter Market Link Important?
 
